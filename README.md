@@ -39,7 +39,7 @@ Follow these steps to run the application locally.
     npx json-server db.json
      ```
 
-#### Start React App
+#### Start React App:
 
     ```bash
     npm run dev   # or yarn run dev
