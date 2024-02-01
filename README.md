@@ -1,4 +1,4 @@
-# Demo Book List App
+# Book List App
 
 This is a CRUD React application within a REST architecture, allowing you to manage a list of books.
 
@@ -52,7 +52,7 @@ Follow these steps to run the application locally.
 
 ### Additional Information:
 
-- This project uses Vite for development and TypeScript for better static typing.
-- The backend is powered by the JSON Server.
+- **This project uses Vite for development and TypeScript for better static typing.**
+- **The backend is powered by the JSON Server.**
 
 Feel free to contribute and enhance the functionality of this project!
