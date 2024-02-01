@@ -1,0 +1,23 @@
+.navLinks {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonLink {
+  color: #b6b6b6;
+}
+
+.navLink {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(182, 182, 182);
+  font-weight: 600;
+}
+
+.isActive {
+  color: white;
+}

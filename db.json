@@ -1,0 +1,234 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "isbn": "978-0-316-76948-0",
+      "createdAt": "2022-03-20T09:45:00Z",
+      "modifiedAt": "2022-03-21T15:18:00Z",
+      "active": "inactive"
+    },
+    {
+      "id": "2",
+      "title": "19845",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "isbn": "978-0-452-28423-4",
+      "createdAt": "2022-03-18T11:30:00Z",
+      "modifiedAt": "2024-02-01T16:17:00Z",
+      "active": "active"
+    },
+    {
+      "id": "4",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "isbn": "978-0-261-10221-4",
+      "createdAt": "2022-03-14T13:10:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "5",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "isbn": "978-0-618-13382-5",
+      "createdAt": "2022-03-12T10:55:00Z",
+      "modifiedAt": "2022-03-13T14:20:00Z",
+      "active": "active"
+    },
+    {
+      "id": "6",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "isbn": "978-0-7475-3269-6",
+      "createdAt": "2022-03-10T09:15:00Z",
+      "modifiedAt": "2022-03-11T11:45:00Z",
+      "active": "active"
+    },
+    {
+      "id": "7",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "category": "Dystopian",
+      "isbn": "978-0-439-02348-1",
+      "createdAt": "2022-03-08T12:30:00Z",
+      "modifiedAt": "2022-03-09T15:10:00Z",
+      "active": "active"
+    },
+    {
+      "id": "8",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "category": "Mystery",
+      "isbn": "978-0-385-50420-1",
+      "createdAt": "2022-03-06T11:20:00Z",
+      "modifiedAt": "2022-03-07T14:00:00Z",
+      "active": "inactive"
+    },
+    {
+      "id": "9",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "category": "Mystery",
+      "isbn": "978-0-307-27575-0",
+      "createdAt": "2022-03-04T09:40:00Z",
+      "modifiedAt": "2022-03-05T13:15:00Z",
+      "active": "active"
+    },
+    {
+      "id": "10",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "category": "Horror",
+      "isbn": "978-0-385-12167-5",
+      "createdAt": "2022-03-02T10:45:00Z",
+      "modifiedAt": "2022-03-03T14:25:00Z",
+      "active": "active"
+    },
+    {
+      "id": "11",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "isbn": "978-0-06-112008-4",
+      "createdAt": "2022-04-01T09:30:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "12",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic",
+      "isbn": "978-0-7432-7356-5",
+      "createdAt": "2022-03-30T11:15:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "13",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Dystopian",
+      "isbn": "978-0-06-085052-4",
+      "createdAt": "2022-03-28T13:20:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "14",
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "category": "Fantasy",
+      "isbn": "978-0-06-447118-5",
+      "createdAt": "2022-03-26T10:05:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "15",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Classic",
+      "isbn": "978-0-14-143951-8",
+      "createdAt": "2022-03-24T09:00:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "16",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Philosophical",
+      "isbn": "978-0-06-112241-5",
+      "createdAt": "2022-03-22T12:40:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "17",
+      "title": "Moby-Dick 111",
+      "author": "Herman Melville",
+      "category": "Adventure",
+      "isbn": "978-1-85326-008-1",
+      "createdAt": "2022-03-20T14:35:00Z",
+      "modifiedAt": "2024-02-01T10:08:27Z",
+      "active": "active"
+    },
+    {
+      "id": "18",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "category": "Adventure",
+      "isbn": "978-1-85326-008-1",
+      "createdAt": "2022-03-18T11:30:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "19",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "category": "Gothic",
+      "isbn": "978-0-14-143947-1",
+      "createdAt": "2022-03-16T10:25:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "20",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "category": "Sci-Fi",
+      "isbn": "978-0-345-39180-3",
+      "createdAt": "2022-03-14T13:50:00Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "21",
+      "title": "Versace donatella",
+      "author": "hi hi hi",
+      "category": "Dystopian",
+      "isbn": "141515ggj",
+      "createdAt": "2024-02-01T09:38:40Z",
+      "modifiedAt": "2024-02-01T15:01:26Z",
+      "active": "inactive"
+    },
+    {
+      "id": "22",
+      "title": "fafafa",
+      "author": "gagag",
+      "category": "Fantasy",
+      "isbn": "hfhsh",
+      "createdAt": "2024-02-01T15:31:33Z",
+      "modifiedAt": "",
+      "active": "inactive"
+    },
+    {
+      "id": "23",
+      "title": "fafaf",
+      "author": "4141414-4141-41414-55",
+      "category": "Dystopian",
+      "isbn": "141515gg",
+      "createdAt": "2024-02-01T15:35:23Z",
+      "modifiedAt": "",
+      "active": "active"
+    },
+    {
+      "id": "24",
+      "title": "6621515",
+      "author": "fafaga",
+      "category": "Fantasy",
+      "isbn": "88777",
+      "createdAt": "2024-02-01T16:40:14Z",
+      "modifiedAt": "",
+      "active": "inactive"
+    }
+  ]
+}
