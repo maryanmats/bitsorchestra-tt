@@ -16,7 +16,7 @@ Follow these steps to run the application locally.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/tt-bitsorchestra.git
+    git clone https://github.com/maryanmats/tt-bitsorchestra.git
     ```
 
 2. **Navigate to the project directory:**
@@ -35,5 +35,24 @@ Follow these steps to run the application locally.
 
 #### Start the Fake REST API Server:
 
-```bash
-npm run json-server
+    ```bash
+    npx json-server db.json
+     ```
+
+#### Start React App
+
+    ```bash
+    npm run dev   # or yarn run dev
+     ```
+### Usage:
+
+1. **Open your browser and navigate to localhost**
+2. **Explore the Dashboard and Add a Book/Edit Book pages**
+3. **Utilize the provided functionalities to manage the book list**
+
+### Additional Information:
+
+- This project uses Vite for development and TypeScript for better static typing.
+- The backend is powered by the JSON Server.
+
+Feel free to contribute and enhance the functionality of this project!
